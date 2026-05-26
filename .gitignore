@@ -1,0 +1,19 @@
+# Ignore database credentials and local configs
+db.php
+config.php
+
+# Ignore uploaded files and temporary data
+uploads/
+*.log
+*.tmp
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
