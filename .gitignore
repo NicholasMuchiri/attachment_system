@@ -4,6 +4,8 @@ config.php
 
 # Ignore uploaded files and temporary data
 uploads/
+db.php
+images/
 *.log
 *.tmp
 

@@ -65,7 +65,7 @@ body {
 
 /* Modern container styling */
 .container {
-  background: rgb(239, 235, 235);
+  background: rgb(198, 194, 194);
   backdrop-filter: blur(12px);
   border-radius: 16px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);

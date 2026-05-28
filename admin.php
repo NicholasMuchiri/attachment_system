@@ -148,7 +148,7 @@ function showSection(sectionId) {
     <div class="container">
     <!-- Footer Section -->
 <footer class="footer">
-  <p>System developed by <span class="dev-name">Nicholas</span> — <span class="dev-company">devops.co.ke</span></p>
+  <p>System developed by <span class="dev-name"></span><span class="dev-company">devops.co.ke</span></p>
   <div class="social-links">
     <a href="https://github.com/yourusername" target="_blank">GitHub</a>
     <a href="https://twitter.com/yourusername" target="_blank">Twitter</a>
